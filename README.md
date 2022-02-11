@@ -1,4 +1,4 @@
-# Home-range-analysis-Miminum-Convex-Polygon-MCP-QGIS
+# Home-range-analysis-Minimum-Convex-Polygon-MCP-QGIS
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ludovico85/Home-range-analysis-Minimum-Convex-Polygon-MCP-QGIS?color=green&style=plastic)
 
